@@ -2,8 +2,8 @@
 This practice project was create to help T.J. Maher familiarize himself with the Builder pattern. <br><br>
 With this project, he creates an AddressBuilder, a way to compose an address.
 <ul>
-<li><a href:"https://github.com/tjmaher/BuilderPattern_Java/blob/master/BuilderPattern_Java/src/src/test/java/com/tmaher/builderpattern/Address.java">Address.java</a></li>
-<li><a href:"https://github.com/tjmaher/BuilderPattern_Java/blob/master/BuilderPattern_Java/src/src/test/java/com/tmaher/builderpattern/Testcases.java">Testcases.java</a></li>
+<li><a href="https://github.com/tjmaher/BuilderPattern_Java/blob/master/BuilderPattern_Java/src/src/test/java/com/tmaher/builderpattern/Address.java">Address.java</a>: Contains Builder, ConcreteBuilder.</li>
+<li><a href="https://github.com/tjmaher/BuilderPattern_Java/blob/master/BuilderPattern_Java/src/src/test/java/com/tmaher/builderpattern/Testcases.java">Testcases.java</a>: Prints out various address formats to logs.</li>
 </ul><br>
 This is part of a larger project that is covered in T.J.'s blog, <b>Adventures in Automation</b>:<br><br>
 <b>Examining Builder Patterns:</b>
